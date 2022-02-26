@@ -1,0 +1,23 @@
+{
+  "name": "nortalrestapi",
+  "version": "1.0.0",
+  "description": "REST API that uses a relational database as a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsasuE/NortalRESTAPI.git"
+  },
+  "author": "Osasu Ehirhieme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OsasuE/NortalRESTAPI/issues"
+  },
+  "homepage": "https://github.com/OsasuE/NortalRESTAPI#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "pg": "^8.7.3"
+  }
+}
