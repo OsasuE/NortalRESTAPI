@@ -1,7 +1,7 @@
 {
   "name": "nortalrestapi",
   "version": "1.0.0",
-  "description": "REST API that uses a relational database as a",
+  "description": "REST API that uses a relational database as a repository",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -1,9 +1,12 @@
+// This JavaScript file has the functions for the SQL commands which I'll use to GET, POST, PUT and DELETE
+// I have installed Pool (pg) and express before initializig node.js 
+
 const Pool = require('pg').Pool
 const pool = new Pool({
-  user: 'postgres',
+  user: 'me',
   host: 'localhost',
-  database: 'api',
-  password: '',
+  database: 'api1',
+  password: 'password',
   port: 5432,
 })
 
