@@ -9,3 +9,7 @@ with schema and some data.
 
 After creating the database I was able to begin building the Node.js RESTful API to connect to this data stored in a 
 PostgreSQL database.
+
+For testing, I used Postman for the CRUDE operations.
+
+I ran out of time after finishing the functioning REST API, but I was hoping to create a React app for a nicer UI. 
